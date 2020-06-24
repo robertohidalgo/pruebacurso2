@@ -1,3 +1,4 @@
 sillas
 mesas
 sofás
+estantes
